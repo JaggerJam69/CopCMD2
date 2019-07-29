@@ -1,0 +1,9 @@
+Noua versiune pentru CopCMD2 e acum in versiunea beta. Modificarile facute:
+- cmd
+- cmd
+- cmd
+- cmd
+- cmd
+- cmd
+- cmd
+- cmd
