@@ -1,9 +1,2 @@
-Noua versiune pentru CopCMD2 e acum in versiunea beta. Modificarile facute:
-- cmd
-- cmd
-- cmd
-- cmd
-- cmd
-- cmd
-- cmd
-- cmd
+Bine ai venit in echipa de testeri! S-a verificat daca functioneaza sitemul de autoupdate.
+Succes! Daca vei avea probleme, nu ezita sa le scrii pe Discord. 
