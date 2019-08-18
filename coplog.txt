@@ -1,2 +1,6 @@
-Bine ai venit in echipa de testeri! S-a verificat daca functioneaza sitemul de autoupdate.
-Succes! Daca vei avea probleme, nu ezita sa le scrii pe Discord. 
+> CopCMD2 v1.5.5b < 
+
+- Optimizari la TargetMDC;
+- Bug fixing la CopChecker;
+
+*Daca se intampla ceva rau, scrieti pe Discord.
