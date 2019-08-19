@@ -3,4 +3,4 @@ CopCMD2 v1.5.5b
 - Optimizari la TargetMDC
 - Bug fixing la CopChecker
 
-Discord WebHook added!
+>Discord WebHook added!
