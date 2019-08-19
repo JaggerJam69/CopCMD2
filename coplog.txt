@@ -1,6 +1,9 @@
-CopCMD2 v1.5.5b 
+{3f53ec}CopCMD2 v1.6b 
 
-- Optimizari la TargetMDC
-- Bug fixing la CopChecker
+{edf3f4}• Compatibil cu versiunea [/en] de la server;
+{dd2e22}*DispatchC, RapidRadar
+{edf3f4}• Am mai facut retusuri prin dialog si alte chestii;
+{edf3f4}• Comanda [/tk] nu va functiona daca jucatorul se afla prea departe;
+{edf3f4}• Am optimizat putin timerul la fvr si auto /engine.
 
-Discord WebHook added!
+*Puteti intra in sectiunea About din [/copcmd], dupa restart! (uwu)
