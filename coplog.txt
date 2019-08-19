@@ -5,5 +5,7 @@
 {edf3f4}• Am mai facut retusuri prin dialog si alte chestii;
 {edf3f4}• Comanda [/tk] nu va functiona daca jucatorul se afla prea departe;
 {edf3f4}• Am optimizat putin timerul la fvr si auto /engine.
+{edf3f4}• Rezolvat bug-ul cu numarul rosu la RapidRadar.
+{dd2e22}*Astept cu drag niste pareri la acest sistem, mersi.
 
-*Puteti intra in sectiunea About din [/copcmd], dupa restart! (uwu)
+*Puteti intra in sectiunea About din /copcmd, dupa restart! (uwu)
