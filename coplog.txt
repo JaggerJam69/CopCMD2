@@ -1,6 +1,6 @@
-> CopCMD2 v1.5.5b < 
+CopCMD2 v1.5.5b 
 
-- Optimizari la TargetMDC;
-- Bug fixing la CopChecker;
+- Optimizari la TargetMDC
+- Bug fixing la CopChecker
 
-*Daca se intampla ceva rau, scrieti pe Discord.
+Discord WebHook added!
