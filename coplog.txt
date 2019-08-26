@@ -1,11 +1,12 @@
-{3f53ec}CopCMD2 v1.6b 
+{3f53ec}CopCMD2 v1.8b 
 
-{edf3f4}- Compatibil cu versiunea [/en] de la server;
-{dd2e22}*DispatchC, RapidRadar.
-{edf3f4}- Am mai facut retusuri prin dialog si alte chestii;
-{edf3f4}- Comanda [/tk] nu va functiona daca jucatorul se afla prea departe;
-{edf3f4}- Am optimizat putin timerul la fvr si auto /engine.
-{edf3f4}- Rezolvat bug-ul cu numarul rosu la RapidRadar.
-{dd2e22}*Astept cu drag niste pareri la acest sistem, mersi!
+{aaec3f}>RapidRadar
+{edf3f4}- Adaugat un minimap pentru [/radar], posibil sa se mai modifice!
+{edf3f4}- A fost refacut modelul de afisare in radar;
+{edf3f4}- S-a inclus logarea a tuturor notificarilor de la radar (posibil sa luati crash, uneori);
+{151524}|---------------------------------------------------------------------------------------|
+{edf3f4}- Optimizari la comanda [/ijail]; 
+{edf3f4}- Un nou sistem a fost inclus, acesta fiind Jail List. Duty On in jail, se activeaza automat;
+{edf3f4}- Optimizat indetificarea jucatorului in jail;
 
-*Puteti intra in sectiunea About din /copcmd, dupa restart! (uwu)
+{edf3f4}*Noi membri in Beta team [/copcmd > About].
