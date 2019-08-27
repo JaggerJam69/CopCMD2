@@ -4,9 +4,15 @@
 {edf3f4}- Adaugat un minimap pentru [/radar], posibil sa se mai modifice!
 {edf3f4}- A fost refacut modelul de afisare in radar;
 {edf3f4}- S-a inclus logarea a tuturor notificarilor de la radar (posibil sa luati crash, uneori);
+{edf3f4}- Nu se afiseaza notificarea de la radar daca jucatorul are wanted;
+{edf3f4}- Nu se afiseaza notificarea de la radar daca jucatorul a mai fost surprins depasind viteza;
+{edf3f4}- A fost schimbata tasta de activare in LAlt (Left Alt);
 {151524}|---------------------------------------------------------------------------------------|
 {edf3f4}- Optimizari la comanda [/ijail]; 
 {edf3f4}- Un nou sistem a fost inclus, acesta fiind Jail List. Duty On in jail, se activeaza automat;
 {edf3f4}- Optimizat indetificarea jucatorului in jail;
 
 {edf3f4}*Noi membri in Beta team [/copcmd > About].
+
+{3f53ec}CopCMD2 v1.8.1b
+{edf3f4}- Bug fixing la radar si sistemul de autoupdate;
