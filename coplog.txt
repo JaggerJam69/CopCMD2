@@ -16,3 +16,6 @@
 
 {3f53ec}CopCMD2 v1.8.1b
 {edf3f4}- Bug fixing la radar si sistemul de autoupdate;
+
+{3f53ec}CopCMD2 v1.8.2b
+{edf3f4}- Bug fix CopCMD;
