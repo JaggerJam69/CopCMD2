@@ -1,21 +1,9 @@
-{3f53ec}CopCMD2 v1.8b 
+{3f53ec}CopCMD2 v1.0-pre
 
-{aaec3f}>RapidRadar
-{edf3f4}- Adaugat un minimap pentru [/radar], posibil sa se mai modifice!
-{edf3f4}- A fost refacut modelul de afisare in radar;
-{edf3f4}- S-a inclus logarea a tuturor notificarilor de la radar (posibil sa luati crash, uneori);
-{edf3f4}- Nu se afiseaza notificarea de la radar daca jucatorul are wanted;
-{edf3f4}- Nu se afiseaza notificarea de la radar daca jucatorul a mai fost surprins depasind viteza;
-{edf3f4}- A fost schimbata tasta de activare in LAlt (Left Alt);
-{151524}|---------------------------------------------------------------------------------------|
-{edf3f4}- Optimizari la comanda [/ijail]; 
-{edf3f4}- Un nou sistem a fost inclus, acesta fiind Jail List. Duty On in jail, se activeaza automat;
-{edf3f4}- Optimizat indetificarea jucatorului in jail;
+{edf3f4}Este versiunea pre-release in care au fost facute putini schimbari, dar
+{edf3f4}reparand niste greseli ortografice si optimizarea codului.
 
-{edf3f4}*Noi membri in Beta team [/copcmd > About].
+{edf3f4}*Cine detine autocorrector-ul meu, imi ziceti! (in afara de Alm0stCrazy);
 
-{3f53ec}CopCMD2 v1.8.1b
-{edf3f4}- Bug fixing la radar si sistemul de autoupdate;
-
-{3f53ec}CopCMD2 v1.8.2b
-{edf3f4}- Bug fix CopCMD;
+{dd2e22}<ATENTIE> {aaec3f}E nevoie si de o testare in amploare la fiecare comanda/sistem.
+{aaec3f}Daca o sa apara probleme, ma contactati.
