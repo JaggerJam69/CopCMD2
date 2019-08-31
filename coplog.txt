@@ -1,9 +1,6 @@
-{3f53ec}CopCMD2 v1.0-pre
+{aaec3f}CopCMD2 v1.2-pre 
 
-{edf3f4}Este versiunea pre-release in care au fost facute putini schimbari, dar
-{edf3f4}reparand niste greseli ortografice si optimizarea codului.
-
-{edf3f4}*Cine detine autocorrector-ul meu, imi ziceti! (in afara de Alm0stCrazy);
-
-{dd2e22}<ATENTIE> {aaec3f}E nevoie si de o testare in amploare la fiecare comanda/sistem.
-{aaec3f}Daca o sa apara probleme, ma contactati.
+{edf3f4}- Imbunatatit sistemul de Wanted Players, acum nu trebuie sa apara
+jos suspectii ce sunt intr-un Infernus de PD sau intr-o masina de politie.
+{edf3f4}- Adaugata o sectiune noua in [/copcmd] > Help > Misc
+{edf3f4}- Bug fix & optimizari.
