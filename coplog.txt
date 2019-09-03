@@ -9,3 +9,8 @@ jos suspectii ce sunt intr-un Infernus de PD sau intr-o masina de politie.
 
 {edf3f4}- Reparat bug-ul cu tasta 2
 {edf3f4}!!! CEI CARE IAU CRASH LA COMENZI MA CONTACTATI!!! VA ROG!!!
+
+{aaec3f}CopCMD2 v1.4pre 
+
+{edf3f4}- Bug fix [/fvr]
+{edf3f4}- Posibil bug fix la [/radar] @Wha1t[]
