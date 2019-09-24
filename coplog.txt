@@ -1,9 +1,5 @@
-{aaec3f}CopCMD2 v2.0pre 
+{aaec3f}CopCMD2 v1.0 Release Version
 
-{edf3f4}- Optimizari la auto engine;
-{edf3f4}- Animatie la wanted players;
-{edf3f4}- Bug fix;
+{edf3f4}- Bug fixing;
 
-{aaec3f}CopCMD2 v2.1pre 
-
-{edf3f4}- Bug fix;
+{edf3f4} Multumesc de testarea CMD-ului, mi-a facut placere!
