@@ -1,8 +1,8 @@
 {aaec3f}CopCMD2 v1.5
 
 {f1b71b}NEW: {edf3f4}Comanda [/mdcc] va afisa pe minimap suspectii fara a folosi comanda [/find], se creeaza markere aparte;
-
 {f1b71b}NEW: {edf3f4}Amenzile au fost redactate pentru serverul {990099}PURPLE;
+{f1b71b}NEW: {edf3f4}Cauza stoparii modului va fi afisata intr-un dialog;
 
 
 {f1b71b}FIX: {edf3f4}Optimizari prin mod;
