@@ -11,4 +11,10 @@
 {f1b71b}<!!!> NEWS {edf3f4}Update-ul aplicat posibil sa provoace crash (a fost testat la 3 dim), daca aveti probleme ma contactati!!!
 sau posibil mi-a scapat ceva, fiti prudenti.
 
+{aaec3f}CopCMD2 v1.5b
+
+{f1b71b}FIX: {edf3f4}Tasta K nu soma ultimul jucator din [/so] dupa ce se folosea TargetMDC. {dd2e22}SOLVED
+{f1b71b}FIX: {edf3f4}Scazut numarul de afisari la AWP pentru a scadea lagul, sunt setate maxim 10 afisari.
+
+
 {3f53ec} Daca aveti sugestii destul de OK pentru niste update-uri, grupul de Discord va dispune rebrand.ly/hubds
