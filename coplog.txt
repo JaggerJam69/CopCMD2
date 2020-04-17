@@ -1,9 +1,14 @@
-{aaec3f}CopCMD2 v1.3
+{aaec3f}CopCMD2 v1.5
 
-{f1b71b}NEW: {edf3f4}Optimizare la lista cu suspecti pe ecran (AWP), acum nu scade prea tare FPS-ul;
+{f1b71b}NEW: {edf3f4}Comanda [/mdcc] va afisa pe minimap suspectii fara a folosi comanda [/find], se creeaza markere aparte;
+
+{f1b71b}NEW: {edf3f4}Amenzile au fost redactate pentru serverul {990099}PURPLE;
+
+
+{f1b71b}FIX: {edf3f4}Optimizari prin mod;
 	 
-{f1b71b}BUG: {edf3f4}Uneori apreau Warning-uri la TargetMDC, sper ca am rezolvat problema {dd2e22} SOLVED 
 
-{f1b71b}<!!!> NEWS {edf3f4}Am ajuns la 100+ download-uri. Imi face placere sa vad asta, va multumesc!!!
+{f1b71b}<!!!> NEWS {edf3f4}Update-ul aplicat posibil sa provoace crash (a fost testat la 3 dim), daca aveti probleme ma contactati!!!
+sau posibil mi-a scapat ceva, fiti prudenti.
 
 {3f53ec} Daca aveti sugestii destul de OK pentru niste update-uri, grupul de Discord va dispune rebrand.ly/hubds
