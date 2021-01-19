@@ -6,6 +6,6 @@
 
 {f1b71b}NEW: {edf3f4}- A fost introdusa o amenda noua, la fel si somatia {3f53ec}[/masca <ID>]{edf3f4}, dupa ce jucatorul a fost somat folositi comanda 
 {3f53ec}[/tk <ID>]{edf3f4}, iar pentru a-l soma de mai multe ori apasati tasta {3f53ec}L{aaec3f} (fara a deschide chat-ul)
-{dd2e22}* Cum a fost si la celelate amenzi/somatii
+{dd2e22}* Cum a fost si la celelate amenzi/somatii.
 
 {3f53ec} Daca aveti sugestii destul de OK pentru niste update-uri, grupul de Discord va dispune rebrand.ly/hubds
