@@ -1,1 +1,15 @@
+{aaec3f}CopCMD v1.5.3b
 
+{f1b71b}NEW: {edf3f4} A fost adaugata comanda rapida pentru a acorda [/fvrespawn] la factiunea Grove Police Department.
+{f1b71b}NEW: {edf3f4} Schimbari la identificarea server-ului la logare. 
+
+{aaec3f}CopCMD v1.5.2b
+
+{f1b71b}NEW: {edf3f4} A fost introdusa o amenda noua, la fel si somatia {3f53ec}[/masca <ID>]{edf3f4}, dupa ce jucatorul a fost somat folositi comanda
+{3f53ec}[/tk <ID>]{edf3f4}, iar pentru a-l soma de mai multe ori, apasati tasta {3f53ec}L{aaec3f}.
+
+{aaec3f}CopCMD v1.5.1b
+
+{f1b71b}FIX: A fost adaugat un mic delay intre somatii, pentru a nu provoca deconectarea de pe server!
+
+{3f53ec} Daca aveti sugestii destul de OK pentru niste update-uri, grupul de Discord va dispune rebrand.ly/hubds
